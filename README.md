@@ -7,6 +7,6 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=nazarli-shabnam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=t2ncay&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub contribution streak" />
 
 </div>
