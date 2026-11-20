@@ -31,5 +31,6 @@ I am the creator of **Vyne**, a systems programming language with region-based m
 
 If you are working on ML systems, compilers, or edge AI, I am always open to discussing architecture and research collaborations.
 
+- **Personal Blog:** [https://t2ncay.github.io](https://t2ncay.github.io)
 - **LinkedIn:** [linkedin.com/in/tuncay-gafarli-345916226](https://www.linkedin.com/in/tuncay-gafarli-345916226/)
-- **Email:** [4tvnexmgmt@gmail.com]
+- **Email:** [qtuncay70@gmail.com]
